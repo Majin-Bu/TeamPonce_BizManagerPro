@@ -1,4 +1,8 @@
 <?php
+//bulk delete
+
+
+
 require_once '../../config/database.php';
 require_once '../../config/session.php';
 requireLogin();
